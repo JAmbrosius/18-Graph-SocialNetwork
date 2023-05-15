@@ -116,7 +116,7 @@ public class MainController {
     }
 
     /**
-     * Gibt die möglichen Verbindungen zwischen zwei Personen im sozialen Netzwerk als String-Array zurück,
+     * Gibt eine mögliche Verbindung zwischen zwei Personen im sozialen Netzwerk als String-Array zurück,
      * falls die Personen vorhanden sind und sie über eine oder mehrere Ecken miteinander verbunden sind.
      * @param name01
      * @param name02
